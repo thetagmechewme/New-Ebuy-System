@@ -1,0 +1,12 @@
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+input {
+    margin-bottom: 10px;
+    top: 50px;
+}
